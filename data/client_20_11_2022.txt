@@ -1,0 +1,99 @@
+----------------------------
+id:KH_X9ITJSRHBVQ3YO6
+Họ Và Tên:DFG
+Ngày Mua:QWER
+Sản Phẩm:DFG
+Tổng Số Lượng:3
+Giá Bìa:33333
+Giảm giá:333
+Tiền Thanh Toán:33000 đ 
+----------------------------
+id:KH_V3YJMVX979T1E7V
+Họ Và Tên:Nguyen Thai Duong
+Ngày Mua:1234
+Sản Phẩm:12345
+Tổng Số Lượng:1234
+Giá Bìa:123
+Giảm giá:1234
+Tiền Thanh Toán:-1111 đ 
+----------------------------
+id:KH_RZ8PVC
+Họ Và Tên:Nguyen Thai Duong
+Ngày Mua:123
+Sản Phẩm:123
+Tổng Số Lượng:123
+Giá Bìa:12
+Giảm giá:1
+Tiền Thanh Toán:11 đ 
+----------------------------
+id:KH_Q2XS5
+Họ Và Tên:Trinh Thi Dieu Linh
+Ngày Mua:20/11/2022
+Sản Phẩm:Truyen Komi, Truyen Naruto, Truyen Doraemon
+Tổng Số Lượng:5
+Giá Bìa:120000
+Giảm giá:12000
+Tiền Thanh Toán:108000 đ 
+----------------------------
+id:KH_7689JEA4KNO6ZWO
+Họ Và Tên:Hoang Van Huy
+Ngày Mua:20/11/2022
+Sản Phẩm:Komi, Naruto, kujusu kaisen
+Tổng Số Lượng:3
+Giá Bìa:95000
+Giảm giá:9500
+Tiền Thanh Toán:85500 đ 
+----------------------------
+id:KH_YUHGOQDQW1UY89J
+Họ Và Tên:Le Van Duc
+Ngày Mua:20/11/2003
+Sản Phẩm:komi,kaguya,tagaki
+Tổng Số Lượng:3
+Giá Bìa:50000
+Giảm giá:5000
+Tiền Thanh Toán:45000 đ 
+----------------------------
+id:KH_5
+Họ Và Tên:Hoang Van Thu
+Ngày Mua:20/11/2022
+Sản Phẩm:Sach LTM, Sach NNTL
+Tổng Số Lượng:2
+Giá Bìa:250000
+Giảm giá:25000
+Tiền Thanh Toán:225000 đ 
+----------------------------
+id:KH_9IEBEAVO01F6P49
+Họ Và Tên:Ly Van Long
+Ngày Mua:20/11/2022
+Sản Phẩm:Sach NNTL, Sach JavaScript
+Tổng Số Lượng:2
+Giá Bìa:200000
+Giảm giá:20000
+Tiền Thanh Toán:180000 đ 
+----------------------------
+id:KH_KJTKYMCGY1LL2D2
+Họ Và Tên:Trinh Van Long
+Ngày Mua:20/11/2022
+Sản Phẩm:3 goi mi tom, 10 qua trung
+Tổng Số Lượng:13
+Giá Bìa:40000
+Giảm giá:4000
+Tiền Thanh Toán:36000 đ 
+----------------------------
+id:KH_YJY8NX6GQOUPDC6
+Họ Và Tên:Vu Van Nghi
+Ngày Mua:20/11/2022
+Sản Phẩm:10 goi mi,10 qua trung
+Tổng Số Lượng:20
+Giá Bìa:65000
+Giảm giá:6500
+Tiền Thanh Toán:58500 đ 
+----------------------------
+id:KH_Q7YTSGKBY0LZS8Q
+Họ Và Tên:Vu Hoang Long
+Ngày Mua:30/09/2022
+Sản Phẩm:1kg ca chua,10 goi mi
+Tổng Số Lượng:11
+Giá Bìa:55000
+Giảm giá:5500
+Tiền Thanh Toán:49500 đ 
